@@ -1,0 +1,14 @@
+bin/
+Debug*/
+ipch/
+Release*/
+_ReSharper*/
+
+*.swp
+*.sdf
+*.user
+*.suo
+*.filters
+*.opensdf
+
+version.h
