@@ -25,7 +25,7 @@ This package is compatible with the GNU autotools.
 
     It's configure to build with "Microsoft Visual C++ 2008":
 
-      - executing `cpulimit.vcproj` file.
+      - executing `Resource_Management.vcproj` file.
 
 
 * Cygwin
